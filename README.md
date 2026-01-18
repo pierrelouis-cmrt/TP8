@@ -4,7 +4,7 @@ Ce repo contient le notebook du TP 8 pour le traitement des donnees, le calcul d
 
 ## Lancer avec Binder
 
-
+[![Binder](https://2i2c.mybinder.org/badge_logo.svg)](https://2i2c.mybinder.org/v2/gh/pierrelouis-cmrt/TP8/main?urlpath=%2Fdoc%2Ftree%2FTP8_notebook.ipynb)
 
 ## Lancer en local
 
